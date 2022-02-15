@@ -1,0 +1,91 @@
+
+
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  tr {
+    border-bottom: 1pt solid black;
+  }
+  th, td {
+    border: 1pt solid black;
+  }
+
+  h4, p {
+    margin: 0;
+    padding: 0;
+  }
+
+  .coding-challenge {
+    background-color: yellow;
+  }
+
+  .project {
+    background-color: lightgreen;
+  }
+
+  .meetup {
+    background-color: lightblue;
+  }
+  .presentation {
+    background-color: lightpink;
+  }
+  .review {
+    background-color: lightgrey;
+  }
+  .planning {
+    background-color: lightcoral;
+  }
+  .debugging {
+    background-color: lightseagreen;
+  }
+  .questions {
+    background-color: red;
+    color: white;
+  }
+
+  .follow-along {
+    background-color: plum;
+  }
+  .qotd {
+    background-color: lightblue;
+  }
+
+  .quiz {
+    background-color: white;
+  }
+  .pair {
+    background-color: fuchsia;
+  }
+  .fun {
+    background-color: orange;
+  }
+
+  .research{
+    background-color: teal;
+  }
+
+  .pull-request {
+    background-color: gold;
+  }
+
+  .lecture {
+    background-color: brown;
+  }
+
+  .assignment {
+    background-color: chocolate;
+  }
+
+  .tutorial {
+    background-color: paleturquoise;
+  }
+
+  .lesson:not(.selected) {
+    opacity: 0.6;
+  }
