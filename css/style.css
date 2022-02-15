@@ -89,3 +89,8 @@ table {
   .lesson:not(.selected) {
     opacity: 0.6;
   }
+
+  .hurry {
+    background-color: red;
+    color: white;
+  }
